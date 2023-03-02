@@ -6,7 +6,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'assembly-client', '~> 0.8.0'
+gem 'assembly-client', '~> 0.9.0'
 
 ```
 
